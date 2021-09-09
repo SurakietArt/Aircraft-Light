@@ -4,8 +4,8 @@
 #include <BlynkSimpleEsp8266.h>
 
 char auth[] = "148016d677e34e5c8d1f449ab5fa7cad";
-char ssid[] = "ArtZ";
-char pass[] = "029146212";
+char ssid[] = "****";
+char pass[] = "*************";
 WidgetLED Strobe(D6);
 WidgetLED Beacon(D7);
 const int Wing = D1;
