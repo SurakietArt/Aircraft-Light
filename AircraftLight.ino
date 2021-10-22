@@ -3,7 +3,7 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-char auth[] = "148016d677e34e5c8d1f449ab5fa7cad";
+char auth[] = "**************";
 char ssid[] = "****";
 char pass[] = "*************";
 WidgetLED Strobe(D6);
